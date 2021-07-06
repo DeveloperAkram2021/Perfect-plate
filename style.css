@@ -1,0 +1,147 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;padding: 0;
+}
+section{
+    
+     margin-bottom: 100px;
+}
+.d-flex{
+     display: flex;
+}
+.justyfi{
+    justify-content: center;
+    align-items: center;  
+}
+#hero-banner {
+    justify-content: center;
+    align-items: center;
+    padding-left: 10%;
+}
+
+div.half-width{
+  width: 50%;
+}
+div.half-width img{
+    width: 85%;
+    padding-left: 10%;
+}
+span.unick-color{
+    color: #4a41e1;
+    font-weight: 900;
+}
+h1 {
+    font-size: 50px;
+}
+a.butn-color{text-decoration: none;
+    background-image: linear-gradient(90deg,#7a74e0, #4a41e1);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+p {
+    margin-bottom: 30px;
+}
+#about-me {
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-top: 50px;
+        background-size: cover;
+}
+#about-me img{
+    width: 60%;
+}
+.half-width.aboutme-section {
+    padding-top: 100px;
+}
+
+ h2 {
+    font-size: 40px;
+}
+#about-me p{    
+    padding-bottom: 50px;
+}
+.food-desh img {
+    width: 90%;
+    margin-top: 21px;
+    border-radius: 20px;
+}
+.queter-width {
+    text-align: center;
+    width: 32%;
+    margin: 2%;
+    background: #fff;
+    padding: 30px;
+}
+.food-desh {
+    width: 32%;
+    margin: 2%;
+    box-shadow: 10px 10px 40px #ddd;
+    text-align: center;
+    border-radius: 20px;
+    height: 500px;
+}
+.only-text {
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.pding{
+    padding-left: 7%;
+}
+#Pricing {
+    background-image: url(img/b3.jpg);
+    padding: 50px 20px;
+}
+.price-width{
+    
+     box-shadow: 10px 10px 40px #ddd;
+}
+.Simple-price {
+    text-align: center;
+}
+
+.counter {
+    box-shadow: 10px 10px 40px #ddd;
+    margin: 0 37px;
+    border-radius: 20px;
+}
+
+.testimonial {
+    background: #4a41e1;
+    height: 200px;
+    color: #fff;
+}
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    margin: 0;
+    padding: 20px 10px;
+    color: #fff;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
